@@ -2,14 +2,14 @@
 
 <br/>
 
-[![Documentation](https://img.shields.io/badge/Documentation-📕-blue)](https://Lumivor-Labs.github.io)
+[![Documentation](https://img.shields.io/badge/Documentation-📕-blue)](https://lumivor-labs.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lumivor_labs?style=social)](https://x.com/lumivor_labs)
 
 Seamlessly Integrating AI with the Web
 
 We enable AI systems to interact with websites by pinpointing and isolating essential interactive elements for smooth navigation.
 
-To learn more about the library, check out the [documentation 📕](https://Lumivor-Labs.github.io).
+To learn more about the library, check out the [documentation 📕](https://lumivor-labs.com).
 
 # Quick start
 
@@ -49,7 +49,7 @@ And don't forget to add your API keys to your `.env` file.
 OPENAI_API_KEY=
 ```
 
-For other settings, models, and more, check out the [documentation 📕](https://Lumivor-Labs.github.io).
+For other settings, models, and more, check out the [documentation 📕](https://lumivor-labs.com).
 
 ## Examples
 
@@ -61,7 +61,7 @@ Contributions are welcome! Feel free to open issues for bugs or feature requests
 
 ## Local Setup
 
-To learn more about the library, check out the [local setup 📕](https://Lumivor-Labs.github.io/development/local-setup).
+To learn more about the library, check out the [local setup 📕](https://lumivor-labs.com/development/local-setup).
 
 ---
 
